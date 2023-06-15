@@ -1,0 +1,7 @@
+{
+  "discord.lowerDetailsEditing": "Solving fucking ege blyat",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true
+  }
+}
